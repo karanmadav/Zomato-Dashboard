@@ -22,10 +22,13 @@ Analyze Zomato restaurant data to uncover patterns in cuisine preferences, city-
 | ZOMATO P898 Restaurant Analytics.pptx      | Presentation summarizing insights               |
 
 ## 📊 Key Insights
-- 🍕 **Top Cuisines** preferred across metro cities
-- 🌆 **City-wise restaurant count & rating** comparisons
-- 🚚 **Delivery performance** vs. Dine-in metrics
-- 💰 **Average cost for two** across categories
+🍽️ Table Booking: 87.88% of restaurants do not offer table booking, while only 12.12% support it.
+📦 Online Delivery: 74.34% of restaurants do not support online delivery, while 25.66% do.
+🌍 Restaurant Distribution: India has the highest number of restaurants (8652), far ahead of other countries.
+🏆 Top Average Rating: The most common rating is 1, with 2,148 restaurants rated as such.
+📈 Year-wise Trend: A steady number of restaurants are seen from 2010 to 2018, with highest in 2018 (1102).
+💰 Price Range: Almost all restaurants (9507) fall into the lowest price bucket (0–499), indicating affordability.
+📌 City Filters: The dashboard supports drilldowns by city, country, cuisine, and month.
 
 ## ▶️ How to Open Files
 - `.sql` → Open in MySQL Workbench
