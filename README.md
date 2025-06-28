@@ -47,11 +47,21 @@ zomato-dashboard/
 
 **March 2025 – June 2025**
 
-## Screenshot
-Excel Dashboard - ![image](https://github.com/user-attachments/assets/2a433180-184a-4db2-beb2-2ffd6f4be2c1)
-Tableau Dashboard - ![image](https://github.com/user-attachments/assets/bb6ae1f6-ebf2-4190-b294-2cd4d211e489)
-PowerBi Dashboard - ![image](https://github.com/user-attachments/assets/5f5091ae-fae0-4cc7-9a80-2aeb5562adb7) | ![image](https://github.com/user-attachments/assets/5a60d6f0-f0c7-4566-a698-646655b0cfd7)
-MySQL - ![image](https://github.com/user-attachments/assets/49442c80-dcf7-4f81-ae0d-34ae3c271d63)
+## 📸 Screenshots
+
+**Excel Dashboard**  
+![Excel Dashboard](visuals_preview/excel_project_zomato.png)
+
+**Tableau Dashboard**  
+![Tableau Dashboard](visuals_preview/tableau_dashboard.png)
+
+**Power BI Dashboard**  
+![Power BI Dashboard 1](visuals_preview/powerbi_dashboard1.png)  
+![Power BI Dashboard 2](visuals_preview/powerbi_dashboard2.png)
+
+**MySQL Dashboard / Query View**  
+![MySQL](visuals_preview/mysql_dashboard.png)
+
 
 
 ## 👨‍💻 Author
