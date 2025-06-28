@@ -49,19 +49,14 @@ zomato-dashboard/
 
 ## 📸 Screenshots
 
-**Excel Dashboard**  
-![Excel Dashboard](visuals_preview/excel_project_zomato.png)
+**Excel Dashboard**  ![ExcelDashboard png](https://github.com/user-attachments/assets/6c8a8d70-e17f-4f8f-a0c3-0306e5cc2450)
 
-**Tableau Dashboard**  
-![Tableau Dashboard](visuals_preview/tableau_dashboard.png)
+**Tableau Dashboard**  ![TableauDashboard png](https://github.com/user-attachments/assets/b66e4c77-3afd-41e2-a249-7807b1bca3ee)
 
-**Power BI Dashboard**  
-![Power BI Dashboard 1](visuals_preview/powerbi_dashboard1.png)  
-![Power BI Dashboard 2](visuals_preview/powerbi_dashboard2.png)
+**Power BI Dashboard**  ![PowerBiDashboard1 png](https://github.com/user-attachments/assets/dd93385f-93a7-4e33-9221-533ab7c60378)
+![PowerBiDashboard2 png](https://github.com/user-attachments/assets/b3a8e537-688c-40f6-96e1-70ed27e57f8f)
 
-**MySQL Dashboard / Query View**  
-![MySQL](visuals_preview/mysql_dashboard.png)
-
+**MySQL Dashboard / Query View**  ![MySqlQuery png](https://github.com/user-attachments/assets/793d1250-5366-4829-b0e3-909b23dc0fc3)
 
 
 ## 👨‍💻 Author
