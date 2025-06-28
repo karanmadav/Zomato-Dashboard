@@ -37,36 +37,35 @@ To analyze Zomato’s food delivery data and create dynamic dashboards that prov
 ```
 zomato-dashboard/
 │
-├── Zomato_Dashboard.pbix          # Power BI file
-├── Zomato_Dashboard.twbx          # Tableau file
-├── zomato_dataset.xlsx            # Cleaned Excel dataset
-├── zomato_queries.sql             # SQL queries used for data extraction
-├── visuals_preview/               # Optional: screenshots of dashboards
-└── README.md                      # Project overview and documentation
-## 📅 Duration
+├── Excel/
+│   └── Excel Project – Zomato.xlsx
+│
+├── SQL_Scripts/
+│   └── MYSQL Script – Zomato Project.sql
+│
+├── PowerBI/
+│   └── Power BI Project – Zomato.pbix
+│
+├── Tableau/
+│   └── Tableau Project – Zomato.twbx
+│
+├── Presentation/
+│   └── ZOMATO P898 Restaurant Analytics Presentation.pptx
+│
+└── README.md
+```
+
 
 **March 2025 – June 2025**
 
-## 📸 Screenshots
 
-**Excel Dashboard**  ![ExcelDashboard png](https://github.com/user-attachments/assets/6c8a8d70-e17f-4f8f-a0c3-0306e5cc2450)
-
-**Tableau Dashboard**  ![TableauDashboard png](https://github.com/user-attachments/assets/b66e4c77-3afd-41e2-a249-7807b1bca3ee)
-
-**Power BI Dashboard**  ![PowerBiDashboard1 png](https://github.com/user-attachments/assets/dd93385f-93a7-4e33-9221-533ab7c60378)
-![PowerBiDashboard2 png](https://github.com/user-attachments/assets/b3a8e537-688c-40f6-96e1-70ed27e57f8f)
-
-**MySQL Dashboard / Query View**  ![MySqlQuery png](https://github.com/user-attachments/assets/793d1250-5366-4829-b0e3-909b23dc0fc3)
 
 
 ## 👨‍💻 Author
 
 **Karan Madav**  
-*Aspiring Data Analyst | Tools: SQL, Excel, Power BI, Tableau*  
-[LinkedIn](https://www.linkedin.com/in/karan-madav)) • [Portfolio](https://github.com/karanmadav)
+*Aspiring Data Analyst | Tools: SQL, Excel, Power BI, Tableau, Python, R*  
+[LinkedIn](https://www.linkedin.com/in/karan-madav) • [Portfolio](https://github.com/karanmadav)
 
-## 📝 License
-
-This project is for educational and portfolio purposes only. Not affiliated with Zomato.
 
 
