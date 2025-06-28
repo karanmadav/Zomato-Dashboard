@@ -65,7 +65,6 @@ zomato-dashboard/
 
 **Karan Madav**  
 *Aspiring Data Analyst | Tools: SQL, Excel, Power BI, Tableau, Python, R*  
-[LinkedIn](https://www.linkedin.com/in/karan-madav) • [Portfolio](https://github.com/karanmadav)
-
+[LinkedIn](https://www.linkedin.com/in/karan-madav)
 
 
